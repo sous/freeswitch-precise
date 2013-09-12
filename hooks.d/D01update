@@ -1,0 +1,20 @@
+#!/bin/sh
+# D<digit><digit><whatever-else-you-want> is executed before
+#  unpacking the source inside the chroot, after setting up the
+#  chroot environment. Create $TMP, and $TMPDIR if necessary.
+#
+# This is called before build-dependency is satisfied. 
+# Also useful for calling apt-get update
+
+set -ex
+
+repodir=/home/sous/freeswitch-precise
+
+cat $repodir/apt-key.gpg | apt-key add -
+
+echo "force-unsafe-io" > /etc/dpkg/dpkg.cfg.d/02apt-speedup
+
+echo "deb file://$repodir precise main" > /etc/apt/sources.list.d/D01update.list
+
+apt-get update
+

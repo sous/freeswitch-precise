@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: raw.github.com
+Label: apt repository
+Codename: precise
+Date: Thu, 12 Sep 2013 01:12:21 UTC
+Architectures: amd64 i386
+Components: main
+Description: GnuGK packages
+MD5Sum:
+ d6067f3278ee34ffa305ffb62417b51e 308509 main/binary-amd64/Packages
+ 95a45718391c5f33b7c8416da2fae05a 42843 main/binary-amd64/Packages.gz
+ e49ebfa6ac87a00aa03b3e15e91d7eaf 109 main/binary-amd64/Release
+ 0c89dcdbcf841fb78e0ee8fa2d7c6080 24216 main/binary-i386/Packages
+ 70d421726d5d6a279a83d8aae507ca61 4495 main/binary-i386/Packages.gz
+ 1fdebc28a60c7a528e9847cd1425ef54 108 main/binary-i386/Release
+ ceb7d803582e124159cafb345c979841 2747 main/source/Sources
+ e5e6e1131ef7fe0d78779018b871080e 982 main/source/Sources.gz
+ 07e8bbd4e1fe65549a6558a9c2f3b192 110 main/source/Release
+SHA1:
+ f50fb42319f81f3073212fee07e89f0756772275 308509 main/binary-amd64/Packages
+ 5e56a2fbce220fd17ee3cae198d9c4be13a772b4 42843 main/binary-amd64/Packages.gz
+ 9b659564505460c408a4f3796f36698105378b01 109 main/binary-amd64/Release
+ 00434e1482b9b9bd489e2639722e1ac1748b2dcf 24216 main/binary-i386/Packages
+ de80bd410bf89cbcb898dd2ad6fa966bee4eda4f 4495 main/binary-i386/Packages.gz
+ 43253ebc8a21f3905003a3937b94c9598882682b 108 main/binary-i386/Release
+ ea369edd43f8f741d76375aa638f4b88be8e3ba2 2747 main/source/Sources
+ 8f2012ea6164bf2c7bb4f51b9de50f37a6c77669 982 main/source/Sources.gz
+ 55319c71524a24245d2ad1f8647bb70ea431d128 110 main/source/Release
+SHA256:
+ 5069cdcf0df5ec6e37bbb42ed7b6ab33dd9e8f264287b8ac774ac7ac8acf71b4 308509 main/binary-amd64/Packages
+ 481b5d638036dab13ed7d540446bdd5f8b2feb4dc5eba1e58d668afe8cd38dbb 42843 main/binary-amd64/Packages.gz
+ d265136751c08454a3682e157ab57cc781318a50b146eaed586edbdf3d29309d 109 main/binary-amd64/Release
+ aa4b0607f2c31dbe832de4c4975cad8b5569dcd1ebfa50e5478033ab0d5e82bc 24216 main/binary-i386/Packages
+ 68d9f8b48d41c0b342f84979ce032861e96bb2ffa3812785372b8eb5cb990a2c 4495 main/binary-i386/Packages.gz
+ a9d6f37226e9ea77c86688fd3fac27df2150d6dd8f34c55cb0a322ba152dfc90 108 main/binary-i386/Release
+ d1d09a8f0f2b4c0da47a894fd1bcec91809060548158c1958f69707f4503db50 2747 main/source/Sources
+ ad2f0baa91d6f8ac7008456f2779392b4c2d09d6dbeb8cb7d026c3450a65df25 982 main/source/Sources.gz
+ 0ed99a66db2e6b6e506aa738fa73d7e49e1a96feecb400e6087238f9beffcbbc 110 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJSMRT1AAoJEJpGpS09H3QRYMgH+wQ1H2vwRvZimaSEB19ykcoF
+HgScVSyLV+KUFf1r1zS7IV6gGherrcv1tmiHV+8j1tPxw4ecbvJZp9vux2csmUYn
+GIs0Wof6IKyYFErkfY2QYdT5PWsUAQDLYXvxgZqA/MEJvQXlihdLbnjm/7YcAKgW
+RqFfa3XGYF6e3ZUQp45HVoPr29TQKLAr/A2+qfaPsiSiKrDM4bhpiXkbftO4pxa5
+6DIyq/krPO9PI3bfsPmzsNzc7v/g2FFOnQtsL3vuMgoGq1qPasCYGoUurFJ43RSM
+bCLhSz82DqmdsX1vnlxGbpicxYbtSWcNkkC+Y8Zr2nlrYgvRvGhgAA6XfekqqdY=
+=uU2T
+-----END PGP SIGNATURE-----

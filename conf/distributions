@@ -1,0 +1,8 @@
+Origin: raw.github.com
+Label: apt repository
+Codename: precise
+Architectures: amd64 i386 source
+Components: main
+Description: GnuGK packages
+SignWith: yes
+Pull: precise
